@@ -15,7 +15,7 @@ To-Do List with Vanilla JavaScript.
 
 ## :computer: Live Demo
 https://jentodolist.netlify.app/
-<div><img src="https://imgur.com/a/EfhwVLv"></img></div>
+![todolist-min](https://user-images.githubusercontent.com/97131199/166567901-13b0f07c-6a15-41a3-85eb-d5bc5f3d8edb.gif)
   
   
 ## :cd: Installation
