@@ -15,7 +15,9 @@ To-Do List with Vanilla JavaScript.
 
 ## :computer: Live Demo
 https://jentodolist.netlify.app/
-
+<div><img src="https://imgur.com/a/EfhwVLv"></img></div>
+  
+  
 ## :cd: Installation
 1. Download this project as zip and extract it.
 2. Import it to an editor like VS Code with liveserver. 
